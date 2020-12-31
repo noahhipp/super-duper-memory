@@ -1,0 +1,5 @@
+*.pdf
+*.apkg
+.ipynb_checkpoints
+*.txt
+*.pkl
